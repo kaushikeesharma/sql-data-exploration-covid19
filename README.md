@@ -2,6 +2,8 @@
 
 ## Project Preview
 
+The screenshot below shows the countries with the highest COVID-19 infection rate relative to their population.
+
 ![Countries Highest Infection Rate](Results/countries-highest-infection-rate.png)
 
 ## Project Overview
