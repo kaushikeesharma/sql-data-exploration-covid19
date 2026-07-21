@@ -2,7 +2,7 @@
 
 ## Project Preview
 
-![Countries Highest Infection Rate](Results/countries-highest-infection-rate.png)
+![Countries Highest Infection Rate](Results/countries-highest-infection-rate..png)
 
 ## Project Overview
 
