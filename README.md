@@ -2,7 +2,7 @@
 
 ## Project Preview
 
-![Final Output](Results/Countries Highest Infection Rate.png)
+![Countries Highest Infection Rate](Results/Highest%20Infection%20Rate.png)
 
 ## Project Overview
 
