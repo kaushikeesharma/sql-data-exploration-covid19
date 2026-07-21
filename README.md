@@ -1,5 +1,9 @@
 # COVID-19 Data Exploration Using SQL
 
+## Project Preview
+
+![Final Output](Results/Countries Highest Infection Rate.png)
+
 ## Project Overview
 
 This project explores global COVID-19 data using SQL to extract meaningful business insights from a real-world dataset. The analysis focuses on understanding infection rates, death counts, vaccination progress, and global pandemic trends through exploratory data analysis.
